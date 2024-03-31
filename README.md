@@ -5,9 +5,10 @@
 
 <h1 align="center">tutorial video👇 </h1>
 https://www.facebook.com/share/v/YySXjik5GrfkM6tV/?mibextid=oFDknk
+
 ### Installation :
 
-```bash
+
 $ apt update && apt upgrade
 $ pkg install -y root-repo
 $ pkg install -y git tsu python wpa-supplicant pixiewps iw
