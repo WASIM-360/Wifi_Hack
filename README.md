@@ -3,7 +3,8 @@
 <h1 align="center">THIS TOOL MAKE BY TEAM BOT HACKER [WASIM]</h1>
 <p align="center"><img src="https://i.ibb.co/K74g0SC/hulu.jpg"></p>
 
-
+<h1 align="center">tutorial video👇 </h1>
+https://www.facebook.com/share/v/YySXjik5GrfkM6tV/?mibextid=oFDknk
 ### Installation :
 
 ```bash
